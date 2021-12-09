@@ -1,0 +1,50 @@
+a {
+    padding: 20px;
+    margin: 10px;
+  }
+
+body{
+      background-color: gainsboro;
+    
+  }
+
+h2{
+      background-color: #44c4eb4b;
+      padding-bottom: 5px;
+  }
+
+img{
+    margin-left: 40%;
+    padding: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+nav{
+    padding-bottom: 20px;
+    border-bottom: medium solid black;
+}
+
+address{
+    padding-bottom: 20px;
+    border-bottom: medium solid black ;
+}
+
+footer{
+    margin-left: 40%;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: "Roboto Regular", Helvetica, Arial, sans-serif;
+}
+
+h1{
+    display: flexbox;
+    justify-content: center;
+}
+
